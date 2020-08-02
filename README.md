@@ -100,3 +100,4 @@ Web Development is extremely vast and there are too many languages, tools, techn
 ## Acknowledgements
 My best friend "smol gurl".
 My CS professor Debayan Gupta. 
+The Internet.
