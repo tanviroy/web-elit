@@ -1,4 +1,5 @@
 # My Web Dev Journey: From HTML to Internship in 3 Months 📌💻
+DISCLAIMER: I do not consider myself an expert, but am simply sharing what resources I used and how I explored a part of web development which helped me successfully land an internship. I am still very much a beginner trying to learn what excites me. 
 
 ## My Story
 It's probably every brown parent's worst nightmare when their smart daughter gives up her dreams of becoming a doctor because she can draw really wiggly lines with Python. 
