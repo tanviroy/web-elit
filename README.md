@@ -1,4 +1,4 @@
-# My Web Dev Journey: From HTML to Internship in 3 Months.
+# My Web Dev Journey: From HTML to Internship in 3 Months 📌💻
 
 ## My Story
 It's probably every brown parent's worst nightmare when their smart daughter gives up her dreams of becoming a doctor because she can draw really wiggly lines with Python. 
