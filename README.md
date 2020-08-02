@@ -83,28 +83,16 @@ Here's a more detailed breakdown of what I learned over the course of 2 months a
 * [Learning React by Alex Banks and Eve Porcello](https://www.imel.ba/edukacija/learningreact1.pdf)
 * [https://html5hive.org/wp-content/uploads/2018/04/The-Complete-Beginners-Guide-to-React_Dyrr.pdf](https://html5hive.org/wp-content/uploads/2018/04/The-Complete-Beginners-Guide-to-React_Dyrr.pdf)
 
+## Additional Resources
+* This is really the holy grail [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+* [https://www.designnotes.co/](https://www.designnotes.co/)
+* [https://www.pitt.edu/~jknoxiii/cs134/notes.html](https://www.pitt.edu/~jknoxiii/cs134/notes.html)
+* [https://www.cs.uct.ac.za/mit_notes/web_programming.html](https://www.cs.uct.ac.za/mit_notes/web_programming.html)
+* [https://www.youtube.com/watch?v=7CqJlxBYj-M](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+
 ## The Key Ingredient to my Success
+Projects. Projects. Projects. Almost every time, I learned something new, I tested it out then and there. I think the best way to not just learn but also learn *more* than you expected is to build something yourself. In the very beginning I found myself relying excessively on tutorials. I found that by adding new features to a guided project or doing things differently helped me ease out of that and broadened my own thinking. I also began crating a lot of silly websites eg. Defecation Station - a very simple game where you have to move a toilet to catch falling poop emojis. As stupid as the game was, it made me think hard about coding the game logic in JS. I have made tons of silly websites since then and I believe making things that aren't common, or better yet, that haven't been made before is a great way of pushing yourself, while making something you actually like. As you migrate to bigger projects, you'll notice that even incorporating a part of code from somewhere else in your codebase is a lot smoother because you actually understand what's going on instead of blindly copy-pasting something. 
 
-## Conclusion
+I think personal projects are what *really* helped me as a total beginner. Right from the first few weeks of my journey, I learned Git and GitHub and began sharing my projects which not too many people would see, but I did it anyway. I cannot stress how much *more* you learn from making something yourself. Every error you'll encounter only pushes you on. When I casually applied for a Web Development Intern position knowing for sure I wouldn't get the role, it was my interest demonstrated through personal projects that I displayed publicly, that helped me get the internship. In fact, my interviewers commended me on the work I did and were convinced that not only did I have certain skills, but I also was someone who could learn something and apply it in a short span of time. 
 
-Possible repo names:
-インターネット
-
-ਵੈੱਬ ਡਿਵੈਲਪਰ
-Vaiba ḍivailapara
-
-vefur verktaki
-
-वेब डेवलपर
-veb devalapar
-
-Web elit
-
-ওয়েব ডেভেলপার
-Ōẏēba ḍēbhēlapāra
-
-desarrollador web
-
-ada-lovelace
-
-BACK TO WORKING ON THIS
+Web Development is extremely vast and there are too many languages, tools, technologies and stacks one can learn. I chose to pick up the MERN stack as it was recommended by my professor. Despite getting an internship, this is by no means, the end. As immensely proud as I am for my hard work paying off, I am still, very much a noobie beginner to many, many things. The number of Babel errors I could never understand and the amount of things I learn about React even today are proof of this. So yeah, it's pretty impossible to master Web Development or even a single stack in 3 months. Technology is constantly changing. But pushing yourself to learn a lot, in a short amount of time, is a great way for a beginner to explore a particular galaxy in the beginner universe of Computer Science. 
