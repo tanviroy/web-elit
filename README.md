@@ -11,7 +11,7 @@ I could not have been more wrong. Oh so wrong. Not only was I intimidated to get
 Both courses are extremely well structured and explained a lot of concepts brilliantly. Plus, they're super economical. I'd highly reccommend them although if you're interested in other options there are plenty of YouTube tutorials and explanations to just about anything. 
 * In July, as I was testing my knowledge by building an entire MERN stack application, I applied and interviewed for a company that eventually offered me a Web Development Internship by the end of the month. 
 
-Here's a more detailed breakdown of what I learned over the course of 2 months and how I learned it: []()
+Here's a more detailed breakdown of what I learned over the course of 2 months and some really helpful free resources you should check out:
 
 ### HTML
 * freeCodeCamp is one of the best free resouces for beginners to learn from [https://www.freecodecamp.org/news/the-html-handbook/](https://www.freecodecamp.org/news/the-html-handbook/)
@@ -42,31 +42,46 @@ Here's a more detailed breakdown of what I learned over the course of 2 months a
 * [https://www.youtube.com/watch?v=W6NZfCO5SIk](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 * [https://learnjavascript.online/](https://learnjavascript.online/)
 * [https://developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-* [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-* [Learning JavaScript](https://pepa.holla.cz/wp-content/uploads/2016/08/Learning-JavaScript-3rd-Edition.pdf)
+* [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+* [Learning JavaScript by Ethan Brown](https://pepa.holla.cz/wp-content/uploads/2016/08/Learning-JavaScript-3rd-Edition.pdf)
+* [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf)
 
 ### Node
-* []()
-* []()
-* []()
-* []()
+* [https://www.w3schools.com/nodejs/](https://www.w3schools.com/nodejs/)
+* [https://www.guru99.com/node-js-tutorial.html](https://www.guru99.com/node-js-tutorial.html)
+* [https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf](https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf)
+* [https://riptutorial.com/Download/node-js.pdf](https://riptutorial.com/Download/node-js.pdf)
+* [https://nodeschool.io/#workshoppers](https://nodeschool.io/#workshoppers)
+* [https://www.youtube.com/watch?v=RLtyhwFtXQA](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+* [https://www.youtube.com/watch?v=JnvKXcSI7yk](https://www.youtube.com/watch?v=JnvKXcSI7yk)
+* [https://www.youtube.com/watch?v=ENrzD9HAZK4](https://www.youtube.com/watch?v=ENrzD9HAZK4)
+* [https://nodejs.dev/learn](https://nodejs.dev/learn)
 
 ### Express
-* []()
-* []()
-* []()
+* [https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course/](https://www.freecodecamp.org/news/learn-express-js-in-this-complete-course/)
+* [Express.JS Guide by Azat Mardan](https://pepa.holla.cz/wp-content/uploads/2016/08/Express.js-Guide.pdf)
+* [Web Development with Node & Express by Ethan Brown](https://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf)
+* [https://www.youtube.com/watch?v=G8uL0lFFoN0](https://www.youtube.com/watch?v=G8uL0lFFoN0)
+* [https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [https://livebook.manning.com/book/express-in-action/chapter-1/](https://livebook.manning.com/book/express-in-action/chapter-1/)
+* [http://nodetuts.com/](http://nodetuts.com/)
 
 ### MongoDB
-* []()
-* []()
-* []()
+* [https://www.coursera.org/learn/introduction-mongodb](https://www.coursera.org/learn/introduction-mongodb)
+* [https://www.youtube.com/watch?v=-56x56UppqQ](https://www.youtube.com/watch?v=-56x56UppqQ)
+* [https://www.youtube.com/watch?v=VELru-FCWDM](https://www.youtube.com/watch?v=VELru-FCWDM)
+* [The Little MongoDB Book by Karl Seguin](https://openmymind.net/mongodb.pdf)
+* [http://mdslab.unime.it/sites/default/files/mongodb_tutorial.pdf](http://mdslab.unime.it/sites/default/files/mongodb_tutorial.pdf)
 
 ### React
-* []()
-* []()
-* []()
-* []()
-* []()
+* [https://www.youtube.com/watch?v=sBws8MSXN7A](https://www.youtube.com/watch?v=sBws8MSXN7A)
+* [https://www.youtube.com/watch?v=DLX62G4lc44](https://www.youtube.com/watch?v=DLX62G4lc44)
+* [https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
+* [https://www.coursera.org/specializations/full-stack-react](https://www.coursera.org/specializations/full-stack-react)
+* [https://www.youtube.com/watch?v=Ke90Tje7VS0](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+* [https://www.w3schools.com/react/](https://www.w3schools.com/react/)
+* [Learning React by Alex Banks and Eve Porcello](https://www.imel.ba/edukacija/learningreact1.pdf)
+* [https://html5hive.org/wp-content/uploads/2018/04/The-Complete-Beginners-Guide-to-React_Dyrr.pdf](https://html5hive.org/wp-content/uploads/2018/04/The-Complete-Beginners-Guide-to-React_Dyrr.pdf)
 
 ## The Key Ingredient to my Success
 
